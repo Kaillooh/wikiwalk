@@ -1,0 +1,17 @@
+body{
+	background-color: #f6f6f6;
+}
+
+.content{
+	width:200px;
+	height:200px;
+}
+
+.wiki_content{
+	transition: opacity 0.5s;
+	opacity: 0;
+}
+
+.visible{
+	opacity: 1;	
+}

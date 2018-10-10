@@ -1,0 +1,9 @@
+h1{
+	font-family: 'Linux Libertine','Georgia','Times',serif;
+}
+
+body{
+	background-color: white;
+	border: 1px solid #a7d7f9;
+	padding: 1.25em 1.5em 1.5em 1.5em;
+}

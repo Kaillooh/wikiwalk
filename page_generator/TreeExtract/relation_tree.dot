@@ -1,0 +1,74 @@
+graph artists{
+
+"Camille_Henrot" -- "Jean_de_Loisy_(commissaire_d%27exposition)"
+
+"Jean_de_Loisy_(commissaire_d%27exposition)" -- "Anish_Kapoor"
+
+"Anish_Kapoor" -- "Joseph_Beuys"
+
+"Joseph_Beuys" -- "Alain_Borer"
+
+"Alain_Borer" -- "Jacques_Vimard_(peintre)"
+
+"Jacques_Vimard_(peintre)" -- "Ren%C3%A9_Deroudille"
+
+"Ren%C3%A9_Deroudille" -- "Michel_Moskovtchenko"
+
+"Michel_Moskovtchenko" -- "Maximilien_Vox"
+
+"Maximilien_Vox" -- "Napol%C3%A9on"
+
+"Napol%C3%A9on" -- "Joseph_Fourier"
+
+"Camille_Henrot" -- "Pierre_Huyghe"
+
+"Pierre_Huyghe" -- "Dominique_Gonzalez-Foerster"
+
+"Dominique_Gonzalez-Foerster" -- "Bertrand_Lavier"
+
+"Bertrand_Lavier" -- "Andr%C3%A9_Lhote"
+
+"Andr%C3%A9_Lhote" -- "Edmond_Boissonnet"
+
+"Edmond_Boissonnet" -- "Michel_Ciry"
+
+"Michel_Ciry" -- "Albert_Decaris"
+
+"Albert_Decaris" -- "Albert_Besnard"
+
+"Albert_Besnard" -- "Alphonse_de_Lamartine"
+
+"Alphonse_de_Lamartine" -- "Joseph_Fourier"
+
+"Andr%C3%A9_Lhote" -- "Eug%C3%A8ne_Delacroix"
+
+"Eug%C3%A8ne_Delacroix" -- "Paul_Delaroche"
+
+"Paul_Delaroche" -- "Emmanuel_de_Pastoret"
+
+"Emmanuel_de_Pastoret" -- "Joseph_Fourier"
+
+"Eug%C3%A8ne_Delacroix" -- "Carl_Gustav_Carus"
+
+"Carl_Gustav_Carus" -- "Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand"
+
+"Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand" -- "Joseph_Fourier"
+
+"Eug%C3%A8ne_Delacroix" -- "%C3%89douard_Manet"
+
+"%C3%89douard_Manet" -- "%C3%89ric_Darragon"
+
+"%C3%89ric_Darragon" -- "Edward_Hopper"
+
+"Edward_Hopper" -- "Caspar_David_Friedrich"
+
+"Caspar_David_Friedrich" -- "Jean_Revol"
+
+"Jean_Revol" -- "Jean_Dubuffet"
+
+"Jean_Dubuffet" -- "Ren%C3%A9_Deroudille"
+
+"Jacques_Vimard_(peintre)" -- "%C3%89douard_Pignon"
+
+"%C3%89douard_Pignon" -- "Andr%C3%A9_Lhote"
+}
